@@ -1,0 +1,59 @@
+/****** Main Styling ******/
+
+body {
+    font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	color: #F4C95D;
+    background: #2B2118;
+	text-align: center;
+	line-height: 1.4em;
+}
+
+.container {
+	padding: 0;
+	margin-top: 40px;
+}
+
+h3 {
+  margin-top: 30px;
+}
+
+.footer {
+	margin-top: 40px;
+}
+
+.user-stories {
+  position: relative;
+  text-align: justify;
+  max-width: 700px;
+  margin: 15px auto;
+}
+code {
+  font-family: monospace;
+  padding: 2px 4px;
+  border-radius: 3px;
+  color: #CFEE9E;
+  background-color: #394032;
+}
+ol {
+	list-style-position: outside;
+	border: 2px solid #CFEE9E;
+	border-radius: 5px;
+	box-sizing: border-box;
+	padding: 40px 60px;
+}
+ul {
+	list-style-type: none;
+}
+
+li {
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 0.5em;
+}
+.user-stories li {
+  margin-bottom: 1em;
+}
+
+a {
+	color: #2574A9;
+}
